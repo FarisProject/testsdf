@@ -1,2 +1,2 @@
-FROM developeranaz/aria2rclone:beta
+FROM daxahasc/daxas:latest
 CMD /entrypoint.sh
